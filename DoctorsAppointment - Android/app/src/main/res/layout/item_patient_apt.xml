@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/innerColor"
+    android:layout_marginTop="2dp"
+    android:layout_marginBottom="2dp"
+    android:elevation="3dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/doc_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="DDDDD"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/mainTextColor">
+    </TextView>
+    <TextView
+        android:id="@+id/spl"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="Symptoms: dsf,fsd,fds,fg"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/lightTextColor">
+    </TextView>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="30sp"
+        android:background="#F44336"
+        android:elevation="1dp"
+        android:text="Cancel"
+        android:textSize="16sp"
+        android:layout_marginBottom="15dp"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"></androidx.appcompat.widget.AppCompatButton>
+</LinearLayout>

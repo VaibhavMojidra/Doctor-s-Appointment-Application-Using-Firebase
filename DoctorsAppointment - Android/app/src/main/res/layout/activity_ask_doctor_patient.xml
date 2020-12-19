@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AskDoctorPatient"
+    android:gravity="center"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="#9E121212">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="40dp"
+            android:gravity="center"
+            android:background="@drawable/floating_plate"
+            android:elevation="10dp"
+            android:orientation="vertical">
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/cutive"
+                android:textStyle="italic"
+                android:text="You are "
+                android:textColor="@color/mainTextColor"
+                android:gravity="center"
+                android:textSize="25sp"/>
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/doctor"
+                android:layout_marginTop="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Doctor"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:textColor="@color/innerColor"
+                android:background="@drawable/custom_round_main_btn">
+
+            </androidx.appcompat.widget.AppCompatButton>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/patient"
+                android:layout_marginTop="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Patient"
+                android:paddingLeft="50dp"
+                android:paddingRight="50dp"
+                android:textColor="@color/innerColor"
+                android:background="@drawable/custom_round_main_btn">
+
+            </androidx.appcompat.widget.AppCompatButton>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

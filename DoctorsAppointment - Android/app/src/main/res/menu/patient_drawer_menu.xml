@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_switch"
+        android:title="Dark Mode"
+        app:actionLayout="@layout/switch_layout" />
+    <item android:id="@+id/search_disease"
+        android:title="Search disease"></item>
+    <item android:id="@+id/search_doctor"
+        android:title="Search doctors"></item>
+    <item android:id="@+id/pending_apt"
+        android:title="Pending appointments"></item>
+    <item android:id="@+id/apt"
+        android:title="My Appointments"></item>
+    <item android:id="@+id/logout"
+        android:title="Logout"></item>
+</menu>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/actionbarcolor"
+    android:gravity="bottom"
+    android:padding="16dp"
+    android:layout_height="170dp">
+    <TextView
+        android:id="@+id/iniTv"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:background="@drawable/circle_ini"
+        android:textColor="#1a1a1a"
+        android:textSize="25sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="7dp"
+        android:layout_marginBottom="35dp"
+        android:text="VM"></TextView>
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="250dp"
+        android:layout_height="20dp"
+        android:text="Vaibhav Mojidra"
+        android:textColor="#FFF"
+        android:textSize="15sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="7dp"
+        android:layout_marginBottom="4dp"></TextView>
+</RelativeLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/innerColor"
+    android:layout_marginTop="2dp"
+    android:layout_marginBottom="2dp"
+    android:elevation="3dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/disease_or_doctor_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:layout_marginTop="5dp"
+        android:text="DDDDD"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="@color/mainTextColor">
+    </TextView>
+    <TextView
+        android:id="@+id/symptoms_or_spl"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="Symptoms: dsf,fsd,fds,fg"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/lightTextColor">
+    </TextView>
+    <TextView
+        android:id="@+id/info"
+        android:layout_marginTop="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textStyle="italic"
+        android:text="Tap to request an appointment or view details"
+        android:paddingRight="10dp"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/lightTextColor">
+    </TextView>
+</LinearLayout>
