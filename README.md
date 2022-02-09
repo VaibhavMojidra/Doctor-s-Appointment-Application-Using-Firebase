@@ -19,8 +19,6 @@ Patient Module:
 Doctor Module:
 
 ![D1](https://user-images.githubusercontent.com/51367686/103348014-b4a6bd00-4abe-11eb-9c9a-615c1a99eac5.jpg)
-![D2](https://user-images.githubusercontent.com/51367686/103348016-b53f5380-4abe-11eb-81ff-eeb1483a7da7.jpg)
-![D3](https://user-images.githubusercontent.com/51367686/103348001-afe20900-4abe-11eb-9be3-3a8e60820968.jpg)
 ![D4](https://user-images.githubusercontent.com/51367686/103348005-b2446300-4abe-11eb-9324-5550881f562f.jpg)
 ![D5](https://user-images.githubusercontent.com/51367686/103348010-b2dcf980-4abe-11eb-89e0-eb55505308c7.jpg)
 ![D6](https://user-images.githubusercontent.com/51367686/103348011-b3759000-4abe-11eb-9d65-f43c3f6aa97c.jpg)
