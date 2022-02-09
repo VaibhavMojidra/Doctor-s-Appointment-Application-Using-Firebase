@@ -20,6 +20,4 @@ Doctor Module:
 
 ![D1](https://user-images.githubusercontent.com/51367686/103348014-b4a6bd00-4abe-11eb-9c9a-615c1a99eac5.jpg)
 ![D4](https://user-images.githubusercontent.com/51367686/103348005-b2446300-4abe-11eb-9324-5550881f562f.jpg)
-![D5](https://user-images.githubusercontent.com/51367686/103348010-b2dcf980-4abe-11eb-89e0-eb55505308c7.jpg)
-![D6](https://user-images.githubusercontent.com/51367686/103348011-b3759000-4abe-11eb-9d65-f43c3f6aa97c.jpg)
 ![D7](https://user-images.githubusercontent.com/51367686/103348012-b40e2680-4abe-11eb-9ee3-13ea4c8d35cd.jpg)
